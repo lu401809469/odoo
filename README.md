@@ -10,3 +10,10 @@ alter role  odoo with superuser;
 
 
 # 生产
+更新代码
+git pull origin 18.0
+
+
+# 项目信息
+项目地址：https://github.com/lu401809469/odoo.git
+分支：18.0（唯一）
